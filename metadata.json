@@ -1,0 +1,7 @@
+{
+  "name": "DarkLeitor",
+  "description": "Cyb3r Vozes",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
